@@ -27,5 +27,4 @@ echo "<br>";
 echo "Data Brasileira Invertida: ";
 echo inverteData($data_brasileira);
 
-
 ?>
